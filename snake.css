@@ -1,0 +1,16 @@
+body {
+        font-family: 'Courier New', Courier, monospace;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+}
+ canvas {
+     box-shadow: rgb(173, 173, 173) 1px 1px 30px;
+    
+
+ }
